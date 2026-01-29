@@ -92,3 +92,17 @@ Make sure to provide your **Gemini API key** in the Streamlit sidebar:
 - **Brutal Honesty Agent**
     - Offers direct, objective feedback on the breakup.
     - Uses factual language with no sugar-coating.
+
+---
+
+## 🤞🏻 Terminal
+
+1. **cd /Users/XXX/Desktop/XXX/XXX/ai_breakup_recovery_agent** 
+2. **python3 -m venv .venv
+source .venv/bin/activate**
+3. **source .venv/bin/activate
+python -m pip install -U google-genai**
+4. **python -m pip install --upgrade pip
+pip install -r requirements.txt**
+5. **python -m streamlit run ai_breakup_recovery_agent.py**
+6. **Input API key to the left column in the new webpage**
